@@ -1,0 +1,8 @@
+name: JumpPad
+main: com.github.chrisboyce.JumpPad.JumpPadPlugin
+version: 0.01
+commands:
+    jp_reload:
+        description: Reloads the JumpPad config
+        permission: jp.reload
+        usage: /rp_reload
